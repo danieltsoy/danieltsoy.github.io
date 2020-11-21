@@ -19,7 +19,7 @@ description: "Daniel is a software engineer in Brooklyn, New York. "
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://danieltsoy.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
 github_username: 'danieltsoy'
-medium_username: 'blog.danieltsoy.com'
+linkedin_username: 'danieltsoy'
 
 # Build settings
 markdown: kramdown
