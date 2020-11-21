@@ -88,7 +88,7 @@ pagination:
 ############################################################
 
 ### Phantom settings
-footer_text: '© 2018 Daniel Tsoy'
+footer_text: '© 2020 Daniel Tsoy'
 admin_name: 'Daniel Tsoy'
 google_analytics: "UA-9999999-99" # Update with your own tracking ID
 enable_contact: false
